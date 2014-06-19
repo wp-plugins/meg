@@ -7,7 +7,7 @@
  Version: 1.0
  Author URI: https://meg.com
  */
-define('MEG_BASEURL', 'https://apps.meg.com');
+define('MEG_BASEURL', 'http://apps.meg.com');
 define('MEG_OPTIONS_KEY', 'meg_options');
 
 
