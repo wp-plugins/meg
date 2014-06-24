@@ -14,7 +14,7 @@ For most businesses, mobile marketing is confusing, time-consuming, and expensiv
 
 == Installation ==
 1. Go to the Plugins tab of your WordPress admin and search for “MEG” or upload `meg.php` to the `/wp-content/plugins/` directory
-2. Get your MEG ID from the [MEG Manager][1](“MEG.com Easy Mobile Marketing”)
+2. Get your MEG ID from the [MEG Manager][1] (“MEG.com Easy Mobile Marketing”)
 3. Activate the plugin through the 'Plugins' menu in WordPress
  [1]: http://apps.meg.com/
 == Frequently Asked Questions ==
