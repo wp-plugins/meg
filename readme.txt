@@ -13,10 +13,13 @@ MEG.com is the only One-Stop-Shop for Easy Mobile Marketing. MEG.com delivers an
 For most businesses, mobile marketing is confusing, time-consuming, and expensive. MEG simplifies mobile marketing for your business with MEG Apps, which are infinitely customizable through the MEG App Store and MEG Manager. Whether you're a restaurant, retailer, media publisher, professional services provider, or literally anything in between, MEG can help you grow your business by harnessing the power of mobile and connecting you with more potential customers. MEG also connects the dots between the mobile web, desktop web, social media channels, and your in-store or on-premise marketing through iBeacon technology. Get your own MEG Apps today and see all the ways that MEG can grow your business.
 
 == Installation ==
-1. Go to the Plugins tab of your WordPress admin and search for “MEG” or upload `meg.php` to the `/wp-content/plugins/` directory
-2. Get your MEG ID from the [MEG Manager][1] (“MEG.com Easy Mobile Marketing”)
-3. Activate the plugin through the 'Plugins' menu in WordPress
- [1]: http://apps.meg.com/
+1. Go to the Plugins tab of your WordPress dashboard.
+2. Click Add New and search for “MEG”.
+3. Below "Mobile Marketing Apps by MEG.com" in your search results, click Install Now.
+4. After the plugin installation is complete, click Activate.
+5. Go to MEG Settings in the Settings menu and enter your MEG ID below. Click Save Changes.
+6. Done! You should now see your MEG Apps on your site. Now go to [meg.com][1] to add and configure your apps.
+ [1]: http://meg.com/
 == Frequently Asked Questions ==
 = Do I have to pay for MEG? =
 Standard Apps in the MEG App Store at MEG.com are free to use, and they will always be free. Premium Apps will be available on a per-app and subscription basis. Our MEG Wordpress Plugin is also free to use.
